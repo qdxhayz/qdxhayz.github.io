@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>/News/newstuguide.html</loc>
+    </url>
+    <url>
+        <loc>/Recruit/artrecruict.html</loc>
+    </url>
+    <url>
         <loc>/Rules/class.html</loc>
     </url>
     <url>
         <loc>/Rules/teacher.html</loc>
     </url>
     <url>
-        <loc>/Rules/untitled.html</loc>
-    </url>
-    <url>
         <loc>/about-us.html</loc>
     </url>
     <url>
-        <loc>/blog-post.html</loc>
+        <loc>/contact-us.html</loc>
+    </url>
+    <url>
+        <loc>/dev.html</loc>
     </url>
     <url>
         <loc>/</loc>
@@ -38,5 +44,8 @@
     </url>
     <url>
         <loc>/set.html</loc>
+    </url>
+    <url>
+        <loc>/stumanage.html</loc>
     </url>
 </urlset>
