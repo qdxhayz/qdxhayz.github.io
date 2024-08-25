@@ -4,6 +4,12 @@
         <loc>/News/newstuguide.html</loc>
     </url>
     <url>
+        <loc>/People/2024-1stu.html</loc>
+    </url>
+    <url>
+        <loc>/People/2024-2stu.html</loc>
+    </url>
+    <url>
         <loc>/Recruit/artrecruict.html</loc>
     </url>
     <url>
@@ -11,6 +17,18 @@
     </url>
     <url>
         <loc>/Rules/teacher.html</loc>
+    </url>
+    <url>
+        <loc>/Safety/againstfight.html</loc>
+    </url>
+    <url>
+        <loc>/Safety/chemsafe.html</loc>
+    </url>
+    <url>
+        <loc>/Safety/eat.html</loc>
+    </url>
+    <url>
+        <loc>/StuManage/helpguide.html</loc>
     </url>
     <url>
         <loc>/about-us.html</loc>
@@ -25,7 +43,13 @@
         <loc>/</loc>
     </url>
     <url>
+        <loc>/model.html</loc>
+    </url>
+    <url>
         <loc>/money.html</loc>
+    </url>
+    <url>
+        <loc>/more.html</loc>
     </url>
     <url>
         <loc>/news.html</loc>
